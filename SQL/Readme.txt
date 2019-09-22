@@ -1,0 +1,1 @@
+All 58 problems of HackerRank SQL category are solved in MS SQL.
