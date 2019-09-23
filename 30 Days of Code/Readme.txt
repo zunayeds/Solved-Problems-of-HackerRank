@@ -1,0 +1,1 @@
+Some problems of HackerRank 30 Days of Code are solved in both C++ and C#.
